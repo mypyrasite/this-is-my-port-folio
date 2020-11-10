@@ -21,7 +21,7 @@ html {
     color: #c5c5c5;
   }
   .main-container {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/GRIDSS02.svg);
+    background-image: url(/this-is-my-port-folio/Image/CV/GRIDSS02.svg);
     position: absolute;
     width: 1124px;
     height: 482.06px;
@@ -29,7 +29,7 @@ html {
     top: 80px;
 }
   .nav-brand-jnerlogo {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/JNERLOGO.svg);
+    background-image: url(/this-is-my-port-folio/Image/HOME/JNERLOGO.svg);
     width: 60px;
     height: 60px;
     position: absolute;
@@ -37,11 +37,11 @@ html {
     top: -6%;
     }
     .nav-brand-jnerlogo:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/JNERLOGO.svg);
+        background-image: url(/this-is-my-port-folio/Image/JNERLOGO.svg);
     }
 
     .nav-brand-contentlogo {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
         width: 20px;
         height: 20px;
         position: absolute;
@@ -51,11 +51,11 @@ html {
         bottom: 88.96%;
     }
     .nav-brand-contentlogo:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
     }
 
     .nav-brand-navbar {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR.svg);
         position: absolute;
         width: 20px;
         height: 20px;
@@ -65,7 +65,7 @@ html {
         bottom: 88.96%;
     }
     .nav-brand-navbar:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_BLUE.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR_BLUE.svg);
     }
 
           
@@ -271,7 +271,7 @@ html {
 
 
 .personal-info {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/personal-info-box.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/personal-info-box.svg);
   position: absolute;
   width: 209px;
   height: 315px;
@@ -334,7 +334,7 @@ top: 9px;
 }
 
 .say-hi {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/CV/HELLO.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/CV/HELLO.svg);
   position: absolute;
   width: 189px;
   height: 49px;
@@ -342,7 +342,7 @@ top: 9px;
   top: 32px;
 }
 .say-hi:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/CV/HELLO_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/CV/HELLO_hover.svg);
 
 }
 
@@ -524,7 +524,7 @@ color: #000000;
 }
 
 .symbol-hand {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/hand-click.svg);
+background-image: url(/this-is-my-port-folio/Image/CV/CV/hand-click.svg);
 position: absolute;
 width: 66px;
 height: 75px;
@@ -532,7 +532,7 @@ left: 125px;
 top: 125px;
 }
 .symbol-hand:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/CV/hand-click_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/CV/hand-click_hover.svg);
 }
 
 .buttn-ner {
@@ -571,7 +571,7 @@ left: 99px;
 top: 480px;
 }
 .im-visual {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/position/CV/im-visual.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/position/CV/im-visual.svg);
   position: absolute;
   width: 120px;
   height: 38px;
@@ -579,11 +579,11 @@ top: 480px;
   top: 0px;
 }
 .im-visual:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/position/CV/CV/im-visual_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/position/CV/CV/im-visual_hover.svg);
 }
 
 .commu-tion {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/position/CV/commu-tion.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/position/CV/commu-tion.svg);
   position: absolute;
   width: 151px;
   height: 95px;
@@ -591,11 +591,11 @@ top: 480px;
   bottom: 60px;
 }
 .commu-tion:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/position/CV/CV/commu-tion_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/position/CV/CV/commu-tion_hover.svg);
 }
 
 .de-sign {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/position/CV/designer.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/position/CV/designer.svg);
   position: absolute;
   width: 108px;
   height: 50px;
@@ -603,7 +603,7 @@ top: 480px;
   top: 70px;
 }
 .de-sign:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV/CV/position/CV/CV/designer_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/CV/CV/position/CV/CV/designer_hover.svg);
 }
 
 .my-dskill {
@@ -622,7 +622,7 @@ text-transform: uppercase;
 color: #000000;
 }
 .list-i {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/my.svg);
+background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/my.svg);
 position: absolute;
 width: 42px;
 height: 14px;
@@ -630,10 +630,10 @@ left: 72px;
 top: 0px;
 }
 .list-i:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/my_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/my_hover.svg);
 }
 .list-ii {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/d-skill.svg);
+background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/d-skill.svg);
 position: absolute;
 width: 250px;
 height: 31px;
@@ -641,10 +641,10 @@ left: 55px;
 top: 14px;
 }
 .list-ii:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/d-skill_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/d-skill_hover.svg);
 }
 .list-iii {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iii.svg);
+background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iii.svg);
 position: absolute;
 width: 102px;
 height: 15px;
@@ -652,7 +652,7 @@ right: 172px;
 top: 62px;
 }
 .list-iii:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iii_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iii_hover.svg);
 }
 .xd {
 position: absolute;
@@ -661,7 +661,7 @@ top: 68px;
 
 }
 .list-iiii {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iiii.svg);
+background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iiii.svg);
 position: absolute;
 width: 88px;
 height: 15px;
@@ -669,7 +669,7 @@ right: 172px;
 top: 83px;
 }
 .list-iiii:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iiii_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iiii_hover.svg);
 }
 .ae {
 position: absolute;
@@ -677,7 +677,7 @@ left: 138px;
 top: 89px;
 }
 .list-iiiii {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iiiii.svg);
+background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iiiii.svg);
 position: absolute;
 width: 102px;
 height: 15px;
@@ -685,7 +685,7 @@ right:172px;
 top: 104px;
 }
 .list-iiiii:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iiiii_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iiiii_hover.svg);
 }
 .fm {
 position: absolute;
@@ -693,7 +693,7 @@ left: 138px;
 top: 110px;
 }
 .list-iiiiii {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iiiiii.svg);
+background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iiiiii.svg);
 position: absolute;
 width: 116px;
 height: 15px;
@@ -701,7 +701,7 @@ right: 172px;
 top: 125px;
 }
 .list-iiiiii:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iiiiii_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iiiiii_hover.svg);
 }
 .ai {
 position: absolute;
@@ -709,7 +709,7 @@ left: 138px;
 top: 131px;
 }
 .list-iiiiiii {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iiiiiii.svg);
+  background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iiiiiii.svg);
   position: absolute;
   width: 116px;
   height: 15px;
@@ -717,7 +717,7 @@ top: 131px;
   top: 146px;
   }
   .list-iiiiiii:hover {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iiiiiii_hover.svg);
+    background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iiiiiii_hover.svg);
   }
   .ide {
   position: absolute;
@@ -725,7 +725,7 @@ top: 131px;
   top: 152px;
   }
   .list-iiiiiiii {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iiiiiiii.svg);
+    background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iiiiiiii.svg);
     position: absolute;
     width: 116px;
     height: 15px;
@@ -733,7 +733,7 @@ top: 131px;
     top: 167px;
     }
     .list-iiiiiiii:hover {
-      background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iiiiiiii_hover.svg);
+      background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iiiiiiii_hover.svg);
     }
     .ps {
     position: absolute;
@@ -741,7 +741,7 @@ top: 131px;
     top: 173px;
     }
     .list-iiiiiiiii {
-      background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iiiiiiiii.svg);
+      background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iiiiiiiii.svg);
       position: absolute;
       width: 88px;
       height: 15px;
@@ -749,7 +749,7 @@ top: 131px;
       top: 188px;
       }
       .list-iiiiiiiii:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iiiiiiiii_hover.svg);
+        background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iiiiiiiii_hover.svg);
       }
       .pr {
       position: absolute;
@@ -757,7 +757,7 @@ top: 131px;
       top: 194px;
       }
       .list-iiiiiiiiii {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iiiiiiiiii.svg);
+        background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iiiiiiiiii.svg);
         position: absolute;
         width: 102px;
         height: 15px;
@@ -765,7 +765,7 @@ top: 131px;
         top: 209px;
         }
         .list-iiiiiiiiii:hover {
-          background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iiiiiiiiii_hover.svg);
+          background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iiiiiiiiii_hover.svg);
         }
         .stch {
         position: absolute;
@@ -773,7 +773,7 @@ top: 131px;
         top: 215px;
         }
         .list-iiiiiiiiiii {
-          background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/iiiiiiiiiii.svg);
+          background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/iiiiiiiiiii.svg);
           position: absolute;
           width: 73px;
           height: 15px;
@@ -781,7 +781,7 @@ top: 131px;
           top: 230px;
           }
           .list-iiiiiiiiiii:hover {
-            background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/D-SKILL/CV/CV/iiiiiiiiiii_hover.svg);
+            background-image: url(/this-is-my-port-folio/Image/D-SKILL/CV/CV/iiiiiiiiiii_hover.svg);
           }
           .vsc {
           position: absolute;
@@ -812,7 +812,7 @@ text-transform: uppercase;
 color: #000000;
 }
 .pro-first {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/myprofess.svg);
+background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/myprofess.svg);
 position: absolute;
 width: 175px;
 height: 42px;
@@ -820,10 +820,10 @@ left: 0px;
 top: 13px;
 }
 .pro-first:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/CV/myprofess_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/CV/myprofess_hover.svg);
 }
 .pro-sec {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/sionalskill.svg);
+background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/sionalskill.svg);
 position: absolute;
 width: 295px;
 height: 24px;
@@ -831,10 +831,10 @@ left: 0px;
 top: 60px;
 }
 .pro-sec:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/CV/sionalskill_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/CV/sionalskill_hover.svg);
 }
 .pro-third {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/third.svg);
+background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/third.svg);
 position: absolute;
 width: 103px;
 height: 18px;
@@ -842,7 +842,7 @@ left: 181px;
 top: 27px;
 }
 .pro-third:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/CV/third_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/CV/third_hover.svg);
 }
 .artdi {
 position: absolute;
@@ -850,7 +850,7 @@ right: 130px;
 top: 33px;
 }
 .pro-fourth {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/fourth.svg);
+  background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/fourth.svg);
   position: absolute;
   width: 88px;
   height: 18px;
@@ -858,7 +858,7 @@ top: 33px;
   top: 50px;
   }
   .pro-fourth:hover {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/CV/fourth_hover.svg);
+    background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/CV/fourth_hover.svg);
   }
   .motion {
   position: absolute;
@@ -866,7 +866,7 @@ top: 33px;
   top: 56px;
   }
   .pro-fifth {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/fifth.svg);
+    background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/fifth.svg);
     position: absolute;
     width: 117px;
     height: 18px;
@@ -874,7 +874,7 @@ top: 33px;
     top: 73px;
     }
     .pro-fifth:hover {
-      background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/CV/fifth_hover.svg);
+      background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/CV/fifth_hover.svg);
     }
     .graf {
     position: absolute;
@@ -882,7 +882,7 @@ top: 33px;
     top: 79px;
     }
     .pro-sixth {
-      background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/sixth.svg);
+      background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/sixth.svg);
       position: absolute;
       width: 88px;
       height: 18px;
@@ -890,7 +890,7 @@ top: 33px;
       top: 96px;
       }
       .pro-sixth:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/CV/sixth_hover.svg);
+        background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/CV/sixth_hover.svg);
       }
       .vdo {
       position: absolute;
@@ -898,7 +898,7 @@ top: 33px;
       top: 102px;
       }
       .pro-seventh {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/seven.svg);
+        background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/seven.svg);
         position: absolute;
         width: 117px;
         height: 18px;
@@ -906,7 +906,7 @@ top: 33px;
         top: 119px;
         }
         .pro-seventh:hover {
-          background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/PROFESSSKILL/CV/CV/seven_hover.svg);
+          background-image: url(/this-is-my-port-folio/Image/PROFESSSKILL/CV/CV/seven_hover.svg);
         }
         .interac {
         position: absolute;
@@ -930,7 +930,7 @@ text-transform: uppercase;
 color: #000000;
 }
 .lang-a {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-lang/CV/my-lang.svg);
+background-image: url(/this-is-my-port-folio/Image/my-lang/CV/my-lang.svg);
 position: absolute;
 width: 179px;
 height: 41px;
@@ -938,10 +938,10 @@ left: 0px;
 top: 0px;
 }
 .lang-a:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-lang/CV/CV/my-lang_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/my-lang/CV/CV/my-lang_hover.svg);
 }
 .lang-b {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-lang/CV/lang-b.svg);
+background-image: url(/this-is-my-port-folio/Image/my-lang/CV/lang-b.svg);
 position: absolute;
 width: 102px;
 height: 17px;
@@ -949,7 +949,7 @@ right: 87px;
 top: 51px;
 }
 .lang-b:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-lang/CV/CV/lang-b_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-lang/CV/CV/lang-b_hover.svg);
 }
 .thai {
 position: absolute;
@@ -957,7 +957,7 @@ left: 120px;
 top: 58px;
 }
 .lang-c {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-lang/CV/lang-c.svg);
+background-image: url(/this-is-my-port-folio/Image/my-lang/CV/lang-c.svg);
 position: absolute;
 width: 88px;
 height: 17px;
@@ -965,7 +965,7 @@ right: 87px;
 top: 72px;
 }
 .lang-c:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-lang/CV/CV/lang-c_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-lang/CV/CV/lang-c_hover.svg);
 }
 .eng {
 position: absolute;
@@ -982,7 +982,7 @@ left: 799px;
 top: 171px;
 }
 .expert-levelone {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/my-work.svg);
+background-image: url(/this-is-my-port-folio/Image/myworkex/CV/my-work.svg);
 position: absolute;
 width: 101px;
 height: 41px;
@@ -990,10 +990,10 @@ left: 0px;
 top: 0px;
 }
 .expert-levelone:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/CV/my-work_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/myworkex/CV/CV/my-work_hover.svg);
 }
 .expert-leveltwo {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/Experience.svg);
+background-image: url(/this-is-my-port-folio/Image/myworkex/CV/Experience.svg);
 position: absolute;
 width: 242px;
 height: 22px;
@@ -1001,10 +1001,10 @@ left: 0px;
 top: 38px;
 }
 .expert-leveltwo:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/CV/Experience_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/myworkex/CV/CV/Experience_hover.svg);
 }
 .expert-levelthree {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/leveleight.svg);
+background-image: url(/this-is-my-port-folio/Image/myworkex/CV/leveleight.svg);
 position: absolute;
 width: 362.84px;
 height: 27px;
@@ -1012,10 +1012,10 @@ left: 0px;
 top: 73px;
 }
 .expert-levelthree:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/CV/leveleight_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/myworkex/CV/CV/leveleight_hover.svg);
 }
 .expert-levelfour {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/levelseven.svg);
+  background-image: url(/this-is-my-port-folio/Image/myworkex/CV/levelseven.svg);
   position: absolute;
   width: 381.94px;
   height: 28px;
@@ -1023,10 +1023,10 @@ background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/mywork
   top: 112px;
   }
   .expert-levelfour:hover {
-  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/CV/levelseven_hover.svg);
+  background-image: url(/this-is-my-port-folio/Image/myworkex/CV/CV/levelseven_hover.svg);
   }
   .expert-levelfive {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/levelsix.svg);
+    background-image: url(/this-is-my-port-folio/Image/myworkex/CV/levelsix.svg);
     position: absolute;
     width: 346.48px;
     height: 26px;
@@ -1034,10 +1034,10 @@ background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/mywork
     top: 151px;
     }
     .expert-levelfive:hover {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/CV/levelsix_hover.svg);
+    background-image: url(/this-is-my-port-folio/Image/myworkex/CV/CV/levelsix_hover.svg);
     }
     .expert-levelsix {
-      background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/levelfive.svg);
+      background-image: url(/this-is-my-port-folio/Image/myworkex/CV/levelfive.svg);
       position: absolute;
       width: 376.48px;
       height: 28px;
@@ -1045,10 +1045,10 @@ background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/mywork
       top: 190px;
       }
       .expert-levelsix:hover {
-      background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/CV/levelfive_hover.svg);
+      background-image: url(/this-is-my-port-folio/Image/myworkex/CV/CV/levelfive_hover.svg);
       }
       .expert-levelseven {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/levelfour.svg);
+        background-image: url(/this-is-my-port-folio/Image/myworkex/CV/levelfour.svg);
         position: absolute;
         width: 377.85px;
         height: 28px;
@@ -1056,10 +1056,10 @@ background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/mywork
         top: 229px;
         }
         .expert-levelseven:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/CV/levelfour_hover.svg);
+        background-image: url(/this-is-my-port-folio/Image/myworkex/CV/CV/levelfour_hover.svg);
         }
         .expert-leveleight {
-          background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/levelthree.svg);
+          background-image: url(/this-is-my-port-folio/Image/myworkex/CV/levelthree.svg);
           position: absolute;
           width: 377.85px;
           height: 28px;
@@ -1067,11 +1067,11 @@ background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/mywork
           top: 268px;
           }
           .expert-leveleight:hover {
-          background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/myworkex/CV/CV/levelthree_hover.svg);
+          background-image: url(/this-is-my-port-folio/Image/myworkex/CV/CV/levelthree_hover.svg);
           }
 
 .my-hobby {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/Group-250.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/Group-250.svg);
 position: absolute;
 width: 206px;
 height: 185px;
@@ -1155,91 +1155,91 @@ justify-content: space-around;
 align-items: center;
 }
 .aicon-game {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/game.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/game.svg);
 width: 20px;
 height: 13.74px;
 }
 .aicon-game:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/game_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/game_hover.svg);
 }
 
 .aicon-hp {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/headphone.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/headphone.svg);
 width: 20px;
 height: 20px;
 }
 .aicon-hp:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/headphone_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/headphone_hover.svg);
 }
 
 .aicon-visual {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/visual.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/visual.svg);
 width: 20px;
 height: 15.83px;
 }
 .aicon-visual:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/visual_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/visual_hover.svg);
 }
     
 .aicon-book {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/book.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/book.svg);
 
 width: 20px;
 height: 16.25px;
 }
 .aicon-book:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/book_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/book_hover.svg);
 }
 
 .aicon-movie {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/movie.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/movie.svg);
 
 width: 20px;
 height: 20px;
 }
 .aicon-movie:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/movie_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/movie_hover.svg);
 }
         
 .aicon-bike {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/bike.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/bike.svg);
 
 width: 20px;
 height: 13.34px;
 }
 .aicon-bike:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/bike_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/bike_hover.svg);
 }
           
 .aicon-nature {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/nature.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/nature.svg);
 
 width: 20px;
 height: 20.94px;
 }
 .aicon-nature:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/nature_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/nature_hover.svg);
 }
             
 .aicon-zine {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/zine.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/zine.svg);
 
 width: 20px;
 height: 20px;
 }
 .aicon-zine:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/zine_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/zine_hover.svg);
 }
               
 .aicon-food {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/eat.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/eat.svg);
 
 width: 20px;
 height: 18.74px;
 
 }
 .aicon-food:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-hobby/CV/CV/eat_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-hobby/CV/CV/eat_hover.svg);
 }
 
 .lastbutt {
@@ -1284,7 +1284,7 @@ letter-spacing: 0.1em;
 color: #000000;
 }
 .educate-m {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-timeline/CV/MY.svg);
+background-image: url(/this-is-my-port-folio/Image/my-timeline/CV/MY.svg);
 position: absolute;
 width: 12px;
 height: 36px;
@@ -1292,10 +1292,10 @@ right: 0px;
 top: 15px;
 }
 .educate-m:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-timeline/CV/CV/MY_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-timeline/CV/CV/MY_hover.svg);
 }
 .educate-on {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-timeline/CV/educate.svg);
+background-image: url(/this-is-my-port-folio/Image/my-timeline/CV/educate.svg);
 position: absolute;
 width: 29px;
 height: 226px;
@@ -1303,7 +1303,7 @@ right: 15px;
 top: 0px;
 }
 .educate-on:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/my-timeline/CV/CV/educate_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/my-timeline/CV/CV/educate_hover.svg);
 }
 .timeline-dot {
 display: grid;
@@ -1375,7 +1375,7 @@ transform: rotate(90deg);
 }
 
 .object-eye {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/Other-Object/CV/eyee.svg);
+background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/eyee.svg);
 position: absolute;
 width: 50px;
 height: 100px;
@@ -1383,11 +1383,11 @@ left: 739px;
 top: 548px;
 }
 .object-eye:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/Other-Object/CV/CV/eyee_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/CV/eyee_hover.svg);
 }
 
 .object-size {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/Other-Object/CV/size.svg);
+background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/size.svg);
 position: absolute;
 width: 60px;
 height: 59.84px;
@@ -1395,11 +1395,11 @@ left: 673px;
 top: 200px;
 }
 .object-size:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/Other-Object/CV/CV/size_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/CV/size_hover.svg);
 }
 
 .object-sandclock {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/Other-Object/CV/sandclock.svg);
+background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/sandclock.svg);
 position: absolute;
 width: 33px;
 height: 52.49px;
@@ -1407,11 +1407,11 @@ left: 821px;
 top: 109px;
 }
 .object-sandclock:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/Other-Object/CV/CV/sandclock_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/CV/sandclock_hover.svg);
 }
 
 .object-mouse {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/Other-Object/CV/mouse.svg);
+background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/mouse.svg);
 position: absolute;
 width: 64px;
 height: 67.51px;
@@ -1419,7 +1419,7 @@ left: 1133px;
 top: 475px;
 }
 .object-mouse:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/Other-Object/CV/CV/mouse_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/CV/mouse_hover.svg);
 }
 
 
