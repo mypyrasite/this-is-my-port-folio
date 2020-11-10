@@ -1,0 +1,367 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  * {
+    box-sizing: inherit;
+    background-size: cover;
+  }
+  
+  body {
+    margin: 0;
+    color: white;
+  }
+  
+  img {
+    object-fit: cover;
+
+  }
+  
+  .input::placeholder {
+    color: #c5c5c5;
+  }
+  .main-container {
+    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/GRID.svg);
+    position: absolute;
+    width: 1126.08px;
+    height: 482.74px;
+    left: 156.46px;
+    top: 79.63px;
+}
+  .nav-brand-jnerlogo {
+    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/JNERLOGO.svg);
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 0%;
+    top: -6%;
+    }
+    .nav-brand-jnerlogo:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/JNERLOGO.svg);
+    }
+    .nav-brand-contentlogo {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        left: 41.1%;
+        right: 52.15%;
+        top: -3.9%;
+        bottom: 88.96%;
+    }
+    .nav-brand-contentlogo:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
+    }
+    .nav-brand-navbar {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR.svg);
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 98.2%;
+        right: 2%;
+        top: -3.9%;
+        bottom: 88.96%;
+    }
+    .nav-brand-navbar:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_BLUE.svg);
+    }
+
+          
+.my-finder {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/finder.svg);
+position: absolute;
+width: 1150px;
+height: 571.69px;
+left: 145px;
+top: 125px;
+}
+
+.finder-header {
+position: absolute;
+width: 655px;
+height: 16px;
+left: 405px;
+top: 11px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 10px;
+line-height: 16px;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.finder-header:hover {
+color: #00FF00;
+}
+
+.finder-bttn {
+position: absolute;
+display: flex;
+justify-content: space-between;
+left: 85px;
+top: 14px;
+width: 50px;
+height: 10px;
+}
+
+.fbone {
+
+background: white;
+border-radius: 100%;
+width: 10px;
+height: 10px;
+}
+.fbone:hover {
+background-color: #00FF00;
+}
+.fbtwo {
+
+background: white;
+border-radius: 100%;
+width: 10px;
+height: 10px;
+}
+.fbtwo:hover {
+background-color: #00FF00;
+}
+.fbthree {
+
+background: white;
+border-radius: 100%;
+width: 10px;
+height: 10px;
+}
+.fbthree:hover {
+background-color: #00FF00;
+}
+
+.findersign {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/W&P.svg);
+position: absolute;
+width: 150px;
+height: 34px;
+left: 85px;
+top: 75px;
+}
+.findersign:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/W&P_HOVER.svg);
+}
+
+.seq-list {
+display: flex;
+flex-direction: row;
+padding: 0px;
+
+}
+
+.seqvii {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqvii.svg);
+position: absolute;
+width: 187px;
+height: 30px;
+left: 66px;
+top: 150px;
+}
+.seqvii:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A7.svg);
+width: 189px;
+height: 30px;
+margin: -1px;
+}
+.seqvi {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqvi.svg);
+position: absolute;
+width: 187px;
+height: 30px;
+top: 179px;
+left: 66px;
+}
+.seqvi:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A6.svg);
+width: 189px;
+height: 30px;
+margin: -1px;
+}
+
+.seqv {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqv.svg);
+position: absolute;
+width: 187px;
+height: 30px;
+top: 208px;
+left: 66px;
+}
+.seqv:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A5.svg);
+width: 189px;
+height: 30px;
+margin: -1px;
+}
+
+.seqiv {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqiv.svg);
+position: absolute;
+width: 187px;
+height: 30px;
+top: 237px;
+left: 66px;
+}
+.seqiv:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A4.svg);
+width: 189px;
+height: 30px;
+margin: -1px;
+}
+    
+.seqiii {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/hover/WORKS/seqiii_hover.svg);
+position: absolute;
+width: 189px;
+height: 30px;
+top: 266px;
+left: 65px;
+}
+
+
+.seqii {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqii.svg);
+position: absolute;
+width: 187px;
+height: 30px;
+top: 295px;
+left: 66px;
+}
+.seqii:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A2.svg);
+width: 189px;
+height: 30px;
+margin: -1px;
+}
+.seqi {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqi.svg);
+position: absolute;
+width: 187px;
+height: 30px;
+top: 324px;
+left: 66px;
+}
+.seqi:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A1.svg);
+width: 189px;
+height: 30px;
+margin: -1px;
+}
+
+
+
+.work-project-picture {
+position: absolute;
+top: 68px;
+left: 366px;
+width: 587px;
+height: 440px;
+display: grid;
+grid-gap: 0px;
+
+grid-template-rows: 1fr 1fr 1fr 1fr;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.item-i {
+grid-row: 5 / 1;
+grid-column: 1 / 3;
+}
+.item-i img {
+display: block;
+position: relative; 
+width: 293.5px;
+height: 440px;
+}
+.overlayfirst {
+position: absolute;
+padding-top: 10%;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 14px;
+text-align: center;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+transition: 0.3s ease; 
+width: 293.5px;
+height: 440px;
+top: 0px; 
+left: 0px; 
+background-color: #00FF00; 
+opacity: 0;
+}
+.content1 {
+position: absolute;
+top: 235px;
+left:95px
+}
+.overlayfirst img {
+position: absolute;
+top: 170px;
+left: 145px;
+width: 20px;
+height: 40px;
+}
+.item-i:hover .overlayfirst { 
+opacity: 0.7;
+vertical-align: middle; 
+}
+
+
+.item-ii {
+grid-row: 5 / 1;
+grid-column: 5 / 3;
+}
+.item-ii img {
+display: block;
+position: relative; 
+width: 293.5px;
+height: 440px;
+}
+.overlaysec {
+position: absolute;
+padding-top: 10%;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 14px;
+text-align: center;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+    
+transition: 0.3s ease; 
+width: 293.5px;
+height: 440px;
+top: 0px; 
+left: 294px; 
+background-color: #00FF00; 
+opacity: 0;
+}
+.content2 {
+position: absolute;
+top: 235px;
+left:80px
+}
+.overlaysec img {
+position: absolute;
+top: 170px;
+left: 145px;
+width: 20px;
+height: 40px;
+}
+.item-ii:hover .overlaysec { 
+opacity: 0.7;
+vertical-align: middle; 
+} 
+

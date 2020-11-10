@@ -1,0 +1,396 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  * {
+    box-sizing: inherit;
+    background-size: cover;
+  }
+  
+  body {
+    margin: 0;
+    color: white;
+  }
+  
+  img {
+    object-fit: cover;
+
+  }
+  
+  .input::placeholder {
+    color: #c5c5c5;
+  }
+  .main-container {
+    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/GRID.svg);
+    position: absolute;
+    width: 1126.08px;
+    height: 482.74px;
+    left: 156.46px;
+    top: 79.63px;
+}
+  .nav-brand-jnerlogo {
+    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/JNERLOGO.svg);
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 0%;
+    right: 82.85%;
+    top: -9%;
+    bottom: 83.06%;
+    }
+    .nav-brand-jnerlogo:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/JNERLOGO.svg);
+    }
+    .nav-brand-contentlogo {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        left: 41.1%;
+        right: 52.15%;
+        top: -3.9%;
+        bottom: 88.96%;
+    }
+    .nav-brand-contentlogo:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
+    }
+    .nav-brand-navbar {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR.svg);
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 98.2%;
+        right: 2%;
+        top: -3.9%;
+        bottom: 88.96%;
+    }
+    .nav-brand-navbar:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_BLUE.svg);
+    }
+
+          
+
+    .candy-gimmick {
+        position: absolute;
+        width: 1127.45px;
+        height: 481.45px;
+        left: 156px;
+        top: 80px;
+    }
+    .candy-one {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 28.2%;
+        top: 0%;
+
+        background: #0000FF;
+    }
+    .candy-one:hover {
+        background: black;
+    }
+    .candy-two {
+        position: absolute;
+        left: 28.2%;
+        top: 31.5%;
+        width: 13px;
+        height: 13px;
+        background: blue;
+        border-radius: 100%;
+    }
+    .candy-two:hover {
+        background: black;
+    }
+    .candy-three {
+        position: absolute;
+        left: 20.8%;
+        top: 48.6%;
+        width: 13px;
+        height: 13px;
+        background: blue;
+        border-radius: 100%;
+    }
+    .candy-three:hover {
+        background: black;
+    }
+    .candy-four {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 0.1%;
+        top: 48.6%;
+        background: blue;
+      }
+      .candy-four:hover {
+          background: black;
+      }
+      .candy-five {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 0.2%;
+        top: 80%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-five:hover {
+          background: black;
+      }
+      .candy-six {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 20.9%;
+        top: 97.3%;
+        background: blue;
+      }
+      .candy-six:hover {
+          background: black;
+      }
+      .candy-seven {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 41.7%;
+        top: 97%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-seven:hover {
+          background: black;
+      }
+      .candy-eight {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 62%;
+        top: 17.5%;
+        background: blue;
+      }
+      .candy-eight:hover {
+          background: black;
+      }
+      .candy-nine {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 41.8%;
+        top: 14.3%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-nine:hover {
+          background: black;
+      }
+      .candy-ten {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 70.6%;
+        top: 31.5%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-ten:hover {
+          background: black;
+      }
+      .candy-eleven {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 78%;
+        top: 48.6%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-eleven:hover {
+          background: black;
+      }
+      .candy-twelve {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 35.6%;
+        top: 65.8%;
+        background: blue;
+      }
+      .candy-twelve:hover {
+          background: black;
+      }
+      .candy-thirteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 57.2%;
+        top: 97%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-thirteen:hover {
+          background: black;
+      }
+      .candy-fourteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 76.7%;
+        top: 97.3%;
+        background: blue;
+      }
+      .candy-fourteen:hover {
+          background: black;
+      }
+      .candy-fifteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 98.7%;
+        top: 69%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-fifteen:hover {
+          background: black;
+      }
+      .candy-sixteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 98.7%;
+        top: 34.5%;
+        background: blue;
+      }
+      .candy-sixteen:hover {
+          background: black;
+      }
+      
+
+.icon-eyeone {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/eyeicon/HOME/EYE_ICON_II-black.svg);
+position: absolute;
+width: 52.17px;
+height: 104.33px;
+left: 1106px;
+top: 137px;
+}
+.icon-eyeone:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/eyeicon/HOME/EYE_ICON_II-blue.svg);
+}
+.icon-eyetwo {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/eyeicon/HOME/EYE_ICON_I-blue.svg);
+position: absolute;
+width: 52.17px;
+height: 104.33px;
+left: 1106px;
+top: 291.67px;
+}
+.icon-eyetwo:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/eyeicon/HOME/EYE_ICON_I-black.svg);
+}
+.icon-eyethree {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/eyeicon/HOME/EYE_ICON_III-black.svg);
+ position: absolute;
+width: 52.17px;
+height: 27px;
+left: 206px;
+top: 472px; 
+}
+.icon-eyethree:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/eyeicon/HOME/EYE_ICON_III-green.svg);
+}
+
+
+.cat-work {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/work/project.svg);
+display: flex;
+flex-direction: row;
+padding: 0px;
+
+position: absolute;
+width: 170px;
+height: 40px;
+left: 156px;
+top: 360px;
+}
+.cat-work:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/work/project_hover.svg);
+}
+
+.cat-cv {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CV/RESUME.svg);
+display: flex;
+flex-direction: row;
+padding: 0px;
+
+position: absolute;
+width: 280px;
+height: 60px;
+left: 967px;
+top: 446px;
+}
+.cat-cv:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CV/resume_hoverII.svg); 
+}
+
+.book-folio {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/book-folio.svg);
+position: absolute;
+transform: rotate(90deg);
+width: 65px;
+height: 23px;
+right: 596px;
+top: 82px;
+}
+.book-folio:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/book-folio-hover.svg);
+}
+
+.mail-icon {
+  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/mail-icon.svg);
+  position: absolute;
+  bottom: 172px;
+  left: 157px;
+  width: 20px;
+  height: 12px;
+  }
+  .mail {
+  position: absolute;
+  bottom: -2px;
+  left: 30px;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.15em;
+  color: #000000;
+  }
+  .mail-icon:hover {
+  background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/mail-icon-hover.svg);
+  
+  }
+  .mail:hover {
+  color: blue;
+  }
+
+
+.emotion-face {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/smiley-icon.svg);
+position: absolute;
+top: 37%;
+left: 46.5%;
+width: 100px;
+height: 111px;
+}
+.emotion-face:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/404.svg);
+position: absolute;
+top: 42%;
+left: 46.5%;
+width: 100px;
+height: 30px;
+
+
+}
+
+

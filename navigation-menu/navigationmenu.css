@@ -1,0 +1,294 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  * {
+    box-sizing: inherit;
+    background-size: cover;
+  }
+  
+  body {
+    margin: 0;
+    color: white;
+  }
+  
+  img {
+    object-fit: cover;
+
+  }
+  
+  .input::placeholder {
+    color: #c5c5c5;
+  }
+  .main-container {
+    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/GRID.svg);
+    position: absolute;
+    width: 1126.08px;
+    height: 482.74px;
+    left: 156.46px;
+    top: 79.63px;
+}
+
+    .nav-brand-navclose {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_X_.svg);
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        left: 1086px;
+        top: -20px;
+
+    }
+    .nav-brand-navclose:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_X_hover.svg);
+    }
+
+    .hellothis {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12.42px;
+        line-height: 18px;
+        text-decoration-line: underline;
+        text-transform: lowercase;
+        letter-spacing: 3px;
+
+        color: #0000FF;
+        position: absolute;
+        width: 169px;
+        height: 84px;
+        left: 488px;
+        top: 105px;
+    }
+    .hellothis:hover {
+        color: black;
+    }
+          
+
+    .candy-gimmick {
+        position: absolute;
+        width: 1127.45px;
+        height: 481.45px;
+        left: 156px;
+        top: 80px;
+    }
+    .candy-one {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 28.2%;
+        top: 0%;
+
+        background: #00FF00;
+    }
+    .candy-one:hover {
+        background: blue;
+    }
+    .candy-two {
+        position: absolute;
+        left: 28.2%;
+        top: 31.5%;
+        width: 13px;
+        height: 13px;
+        background: #00FF00;
+        border-radius: 100%;
+    }
+    .candy-two:hover {
+        background: blue;
+    }
+    .candy-three {
+        position: absolute;
+        left: 20.75%;
+        top: 48.5%;
+        width: 13px;
+        height: 13px;
+        background: white;
+        border-radius: 100%;
+    }
+    .candy-three:hover {
+        background: blue;
+    }
+    .candy-four {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 0.1%;
+        top: 48.6%;
+        background: #00FF00;
+      }
+      .candy-four:hover {
+          background: blue;
+      }
+      .candy-five {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 0.2%;
+        top: 97%;
+        background: #00FF00;
+        border-radius: 100%;
+      }
+      .candy-five:hover {
+          background: blue;
+      }
+      .candy-six {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 20.9%;
+        top: 97.3%;
+        background: #00FF00;
+      }
+      .candy-six:hover {
+          background: blue;
+      }
+      .candy-seven {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 41.7%;
+        top: 97%;
+        background: #00FF00;
+        border-radius: 100%;
+      }
+      .candy-seven:hover {
+          background: blue;
+      }
+      .candy-eight {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 57.2%;
+        top: 0.3%;
+        background: #00FF00;
+      }
+      .candy-eight:hover {
+          background: blue;
+      }
+      .candy-nine {
+        width: 13px;
+        height: 13px;
+        left: 49.44%;
+        top: 14.2%;
+        background: #00FF00;
+        border-radius: 100%;
+      }
+      .candy-nine:hover {
+          background: blue;
+      }
+      .candy-ten {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 70.6%;
+        top: 31.5%;
+        background: #00FF00;
+        border-radius: 100%;
+      }
+      .candy-ten:hover {
+          background: blue;
+      }
+      .candy-eleven {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 78%;
+        top: 48.7%;
+        background: white;
+        border-radius: 100%;
+      }
+      .candy-eleven:hover {
+          background: blue;
+      }
+      .candy-twelve {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 49.44%;
+        top: 49.17%;
+        background: #00FF00;
+      }
+      .candy-twelve:hover {
+          background: blue;
+      }
+      .candy-thirteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 57.2%;
+        top: 97%;
+        background: #00FF00;
+        border-radius: 100%;
+      }
+      .candy-thirteen:hover {
+          background: blue;
+      }
+      .candy-fourteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 78%;
+        top: 97.3%;
+        background: #00FF00;
+      }
+      .candy-fourteen:hover {
+          background: blue;
+      }
+      .candy-fifteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 98.8%;
+        top: 97.3%;
+        background: #00FF00;
+        border-radius: 100%;
+      }
+      .candy-fifteen:hover {
+          background: blue;
+      }
+      .candy-sixteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 98.7%;
+        top: 48.7%;
+        background: #00FF00;
+      }
+      .candy-sixteen:hover {
+          background: blue;
+      }
+
+
+
+.cat-work {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS.svg);
+display: flex;
+flex-direction: column;
+padding: 0px;
+position: absolute;
+width: 160px;
+height: 112px;
+left: 313px;
+top: 290px;
+}
+.cat-work:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS_hover.svg);
+}
+
+.cat-cv {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV-RESUME.svg);
+display: flex;
+flex-direction: column;
+padding: 0px;
+
+position: absolute;
+width: 142px;
+height: 120px;
+left: 970px;
+top: 282px;
+}
+.cat-cv:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV-RESUME_hover.svg); 
+}
+      
+
+      

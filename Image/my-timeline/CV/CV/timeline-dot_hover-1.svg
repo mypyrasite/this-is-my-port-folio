@@ -1,0 +1,23 @@
+<svg width="10" height="450" viewBox="0 0 10 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="5" cy="5" r="4.75" transform="rotate(90 5 5)" stroke="black" stroke-width="0.5"/>
+<circle cx="5" cy="27" r="4.75" transform="rotate(90 5 27)" stroke="black" stroke-width="0.5"/>
+<ellipse cx="5" cy="49" rx="5" ry="5" transform="rotate(90 5 49)" fill="#00FF00"/>
+<path d="M5 75.75C2.37665 75.75 0.250001 73.6234 0.250001 71C0.250001 68.3766 2.37665 66.25 5 66.25C7.62335 66.25 9.75 68.3766 9.75 71C9.75 73.6234 7.62335 75.75 5 75.75Z" stroke="black" stroke-width="0.5"/>
+<path d="M5 97.75C2.37665 97.75 0.250001 95.6234 0.250001 93C0.250001 90.3766 2.37665 88.25 5 88.25C7.62335 88.25 9.75 90.3766 9.75 93C9.75 95.6234 7.62335 97.75 5 97.75Z" stroke="black" stroke-width="0.5"/>
+<path d="M5 119.75C2.37665 119.75 0.250001 117.623 0.250001 115C0.250001 112.377 2.37665 110.25 5 110.25C7.62335 110.25 9.75 112.377 9.75 115C9.75 117.623 7.62335 119.75 5 119.75Z" stroke="black" stroke-width="0.5"/>
+<circle cx="5" cy="137" r="5" transform="rotate(90 5 137)" fill="#0000FF"/>
+<circle cx="5" cy="159" r="4.75" transform="rotate(90 5 159)" stroke="black" stroke-width="0.5"/>
+<path d="M5 185.75C2.37665 185.75 0.250001 183.623 0.250001 181C0.250001 178.377 2.37665 176.25 5 176.25C7.62335 176.25 9.75 178.377 9.75 181C9.75 183.623 7.62335 185.75 5 185.75Z" stroke="black" stroke-width="0.5"/>
+<path d="M5 207.75C2.37665 207.75 0.250001 205.623 0.250001 203C0.250001 200.377 2.37665 198.25 5 198.25C7.62335 198.25 9.75 200.377 9.75 203C9.75 205.623 7.62335 207.75 5 207.75Z" stroke="black" stroke-width="0.5"/>
+<path d="M5 229.75C2.37665 229.75 0.250001 227.623 0.250001 225C0.250001 222.377 2.37665 220.25 5 220.25C7.62335 220.25 9.75 222.377 9.75 225C9.75 227.623 7.62335 229.75 5 229.75Z" stroke="black" stroke-width="0.5"/>
+<circle cx="5" cy="247" r="5" transform="rotate(90 5 247)" fill="#0000FF"/>
+<circle cx="5" cy="269" r="4.75" transform="rotate(90 5 269)" stroke="black" stroke-width="0.5"/>
+<circle cx="5" cy="291" r="4.75" transform="rotate(90 5 291)" stroke="black" stroke-width="0.5"/>
+<circle cx="5" cy="313" r="4.75" transform="rotate(90 5 313)" stroke="black" stroke-width="0.5"/>
+<path d="M5 339.75C2.37665 339.75 0.250001 337.623 0.250001 335C0.250001 332.377 2.37665 330.25 5 330.25C7.62335 330.25 9.75 332.377 9.75 335C9.75 337.623 7.62335 339.75 5 339.75Z" stroke="black" stroke-width="0.5"/>
+<path d="M5 361.75C2.37665 361.75 0.250001 359.623 0.250001 357C0.250001 354.377 2.37665 352.25 5 352.25C7.62335 352.25 9.75 354.377 9.75 357C9.75 359.623 7.62335 361.75 5 361.75Z" stroke="black" stroke-width="0.5"/>
+<circle cx="5" cy="379" r="4.75" transform="rotate(90 5 379)" stroke="black" stroke-width="0.5"/>
+<circle cx="5" cy="401" r="4.75" transform="rotate(90 5 401)" stroke="black" stroke-width="0.5"/>
+<circle cx="5" cy="423" r="5" transform="rotate(90 5 423)" fill="#0000FF"/>
+<path d="M5 449.75C2.37665 449.75 0.250001 447.623 0.250001 445C0.250001 442.377 2.37665 440.25 5 440.25C7.62335 440.25 9.75 442.377 9.75 445C9.75 447.623 7.62335 449.75 5 449.75Z" stroke="black" stroke-width="0.5"/>
+</svg>

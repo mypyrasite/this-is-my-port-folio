@@ -1,0 +1,337 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  * {
+    box-sizing: inherit;
+    background-size: cover;
+  }
+  
+  body {
+    margin: 0;
+    color: white;
+  }
+  
+  img {
+    object-fit: cover;
+
+  }
+  
+  .input::placeholder {
+    color: #c5c5c5;
+  }
+  .main-container {
+    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/GRID.svg);
+    position: absolute;
+    width: 1126.08px;
+    height: 482.74px;
+    left: 156.46px;
+    top: 79.63px;
+}
+  .nav-brand-jnerlogo {
+    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/JNERLOGO.svg);
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 0%;
+    right: 82.85%;
+    top: -9%;
+    bottom: 83.06%;
+    }
+    .nav-brand-jnerlogo:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/JNERLOGO.svg);
+    }
+    .nav-brand-contentlogo {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        left: 41.1%;
+        right: 52.15%;
+        top: -3.9%;
+        bottom: 88.96%;
+    }
+    .nav-brand-contentlogo:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
+    }
+    .nav-brand-navbar {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR.svg);
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 98.2%;
+        right: 2%;
+        top: -3.9%;
+        bottom: 88.96%;
+    }
+    .nav-brand-navbar:hover {
+        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_BLUE.svg);
+    }
+
+          
+
+    .candy-gimmick {
+        position: absolute;
+        width: 1127.45px;
+        height: 481.45px;
+        left: 156px;
+        top: 80px;
+    }
+    .candy-one {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 28.2%;
+        top: 0%;
+
+        background: #0000FF;
+    }
+    .candy-one:hover {
+        background: black;
+    }
+    .candy-two {
+        position: absolute;
+        left: 28.2%;
+        top: 31.5%;
+        width: 13px;
+        height: 13px;
+        background: blue;
+        border-radius: 100%;
+    }
+    .candy-two:hover {
+        background: black;
+    }
+    .candy-three {
+        position: absolute;
+        left: 20.8%;
+        top: 48.6%;
+        width: 13px;
+        height: 13px;
+        background: blue;
+        border-radius: 100%;
+    }
+    .candy-three:hover {
+        background: black;
+    }
+    .candy-four {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 0.1%;
+        top: 48.6%;
+        background: blue;
+      }
+      .candy-four:hover {
+          background: black;
+      }
+      .candy-five {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 0.2%;
+        top: 80%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-five:hover {
+          background: black;
+      }
+      .candy-six {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 20.9%;
+        top: 97.3%;
+        background: blue;
+      }
+      .candy-six:hover {
+          background: black;
+      }
+      .candy-seven {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 41.7%;
+        top: 97%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-seven:hover {
+          background: black;
+      }
+      .candy-eight {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 57.2%;
+        top: 0%;
+        background: blue;
+      }
+      .candy-eight:hover {
+          background: black;
+      }
+      .candy-nine {
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 41.8%;
+        top: 14.3%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-nine:hover {
+          background: black;
+      }
+      .candy-ten {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 70.6%;
+        top: 31.5%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-ten:hover {
+          background: black;
+      }
+      .candy-eleven {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 78%;
+        top: 48.6%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-eleven:hover {
+          background: black;
+      }
+      .candy-twelve {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 35.6%;
+        top: 65.8%;
+        background: blue;
+      }
+      .candy-twelve:hover {
+          background: black;
+      }
+      .candy-thirteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 57.2%;
+        top: 97%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-thirteen:hover {
+          background: black;
+      }
+      .candy-fourteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 76.7%;
+        top: 97.3%;
+        background: blue;
+      }
+      .candy-fourteen:hover {
+          background: black;
+      }
+      .candy-fifteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 98.7%;
+        top: 69%;
+        background: blue;
+        border-radius: 100%;
+      }
+      .candy-fifteen:hover {
+          background: black;
+      }
+      .candy-sixteen {
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        left: 98.7%;
+        top: 34.5%;
+        background: blue;
+      }
+      .candy-sixteen:hover {
+          background: black;
+      }
+
+.frame-work {
+position: absolute;
+width: 1062px;
+height: 550px;
+left: 190px;
+top: 147px;
+overflow: scroll;
+border: 15px solid #0000FF;
+
+}
+
+.frame-background {
+position: absolute;
+width: 1032px;
+height: auto;
+left: -5.6px;
+top: 0px;
+padding: 20px;
+}
+
+.frame-button {
+position: absolute;
+width: 70px;
+height: 70px;
+border: 15px solid #0000FF;
+left: 135px;
+top: 147px;
+}
+
+.close-button {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/close-button.svg);
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 15px;
+height: 14.38px;
+}
+.close-button:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/close-button-hover.svg);
+}
+
+
+
+.cat-work {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/work/project.svg);
+
+position: absolute;
+width: 150px;
+height: 35px;
+left: 156px;
+top: 360px;
+}
+.cat-work:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/projectgreen_hover.svg);
+}
+
+.cat-cv {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CV/RESUME.svg);
+position: absolute;
+width: 200px;
+height: 44px;
+left: 1082px;
+top: 444px;
+
+}
+.cat-cv:hover {
+background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/resume-green-hover.svg);
+}
+
+
