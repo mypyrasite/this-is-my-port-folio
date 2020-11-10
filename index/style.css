@@ -29,7 +29,7 @@ html {
     top: 79.63px;
 }
   .nav-brand-jnerlogo {
-    background-image: url(mypyrasite.github.io/this-is-my-port-folio/Image/JNERLOGO.svg);
+    background-image: url(file:///mypyrasite.github.io/this-is-my-port-folio/Image/JNERLOGO.svg);
     width: 80px;
     height: 80px;
     position: absolute;
@@ -39,7 +39,7 @@ html {
     bottom: 83.06%;
     }
     .nav-brand-jnerlogo:hover {
-        background-image: url(../mypyrasite/this-is-my-port-folio/Image/JNERLOGO.svg);
+        background-image: url(mypyrasite/this-is-my-port-folio/Image/JNERLOGO.svg);
     }
     .nav-brand-contentlogo {
         background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
