@@ -21,7 +21,7 @@ html {
     color: #c5c5c5;
   }
   .main-container {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/GRID.svg);
+    background-image: url(/this-is-my-port-folio/Image/HOME/GRID.svg);
     position: absolute;
     width: 1126.08px;
     height: 482.74px;
@@ -30,7 +30,7 @@ html {
 }
 
     .nav-brand-navclose {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_X_.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR_X_.svg);
         position: absolute;
         width: 40px;
         height: 40px;
@@ -39,7 +39,7 @@ html {
 
     }
     .nav-brand-navclose:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_X_hover.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR_X_hover.svg);
     }
 
     .hellothis {
@@ -260,7 +260,7 @@ html {
 
 
 .cat-work {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS.svg);
 display: flex;
 flex-direction: column;
 padding: 0px;
@@ -271,11 +271,11 @@ left: 313px;
 top: 290px;
 }
 .cat-work:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS_hover.svg);
 }
 
 .cat-cv {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV-RESUME.svg);
+background-image: url(/this-is-my-port-folio/Image/CV-RESUME.svg);
 display: flex;
 flex-direction: column;
 padding: 0px;
@@ -287,7 +287,7 @@ left: 970px;
 top: 282px;
 }
 .cat-cv:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/CV-RESUME_hover.svg); 
+background-image: url(/this-is-my-port-folio/Image/CV-RESUME_hover.svg); 
 }
       
 
