@@ -21,7 +21,7 @@ html {
     color: #c5c5c5;
   }
   .main-container {
-    background-image: url(this-is-my-port-folio/Image/HOME/GRID.svg);
+    background-image: url(/this-is-my-port-folio/Image/HOME/GRID.svg);
     position: absolute;
     width: 1126.08px;
     height: 482.74px;
@@ -29,7 +29,7 @@ html {
     top: 79.63px;
 }
   .nav-brand-jnerlogo {
-    background-image: url(this-is-my-port-folio/Image/HOME/JNERLOGO.svg);
+    background-image: url(/this-is-my-port-folio/Image/HOME/JNERLOGO.svg);
     width: 80px;
     height: 80px;
     position: absolute;
@@ -39,10 +39,10 @@ html {
     bottom: 83.06%;
     }
     .nav-brand-jnerlogo:hover {
-        background-image: url(this-is-my-port-folio/Image/JNERLOGO.svg);
+        background-image: url(/this-is-my-port-folio/Image/JNERLOGO.svg);
     }
     .nav-brand-contentlogo {
-        background-image: url(this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
         width: 20px;
         height: 20px;
         position: absolute;
@@ -52,10 +52,10 @@ html {
         bottom: 88.96%;
     }
     .nav-brand-contentlogo:hover {
-        background-image: url(this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
     }
     .nav-brand-navbar {
-        background-image: url(this-is-my-port-folio/Image/HOME/NAVBAR.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR.svg);
         position: absolute;
         width: 20px;
         height: 20px;
@@ -65,7 +65,7 @@ html {
         bottom: 88.96%;
     }
     .nav-brand-navbar:hover {
-        background-image: url(this-is-my-port-folio/Image/HOME/NAVBAR_BLUE.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR_BLUE.svg);
     }
 
           
@@ -266,7 +266,7 @@ html {
       
 
       .icon-eyeone {
-          background-image: url(this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_II-black.svg);
+          background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_II-black.svg);
           position: absolute;
           width: 52.17px;
           height: 104.33px;
@@ -274,11 +274,11 @@ html {
           top: 137px;
       }
       .icon-eyeone:hover {
-          background-image: url(this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_II-blue.svg);
+          background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_II-blue.svg);
       }
 
       .icon-eyetwo {
-          background-image: url(this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_I-blue.svg);
+          background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_I-blue.svg);
           position: absolute;
           width: 52.17px;
           height: 104.33px;
@@ -286,11 +286,11 @@ html {
           top: 291.67px;
       }
       .icon-eyetwo:hover {
-        background-image: url(this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_I-black.svg);
+        background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_I-black.svg);
       }
 
       .icon-eyethree {
-          background-image: url(this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_III-black.svg);
+          background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_III-black.svg);
           position: absolute;
           width: 52.17px;
           height: 27px;
@@ -298,12 +298,12 @@ html {
           top: 472px; 
       }
       .icon-eyethree:hover {
-          background-image: url(this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_III-green.svg);
+          background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_III-green.svg);
       }
 
 
       .cat-work {
-          background-image: url(this-is-my-port-folio/Image/HOME/work/project.svg);
+          background-image: url(/this-is-my-port-folio/Image/HOME/work/project.svg);
           display: flex;
           flex-direction: row;
           padding: 0px;
@@ -315,11 +315,11 @@ html {
           top: 360px;
       }
       .cat-work:hover {
-        background-image: url(this-is-my-port-folio/Image/HOME/work/project_hover.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/work/project_hover.svg);
       }
 
       .cat-cv {
-        background-image: url(this-is-my-port-folio/Image/HOME/CV/RESUME.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/CV/RESUME.svg);
         display: flex;
         flex-direction: row;
         padding: 0px;
@@ -331,14 +331,14 @@ html {
         top: 446px;
       }
       .cat-cv:hover {
-        background-image: url(this-is-my-port-folio/Image/HOME/CV/resume_hoverII.svg); 
+        background-image: url(/this-is-my-port-folio/Image/HOME/CV/resume_hoverII.svg); 
       }
 
 
 
 
       .mynotice {
-        background-image: url(this-is-my-port-folio/Image/HOME/finder_black.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/finder_black.svg);
         position: absolute;
         
         width: 369px;
@@ -407,7 +407,7 @@ html {
           color: #00FF00;
       }
       .notice-sign {
-        background-image: url(this-is-my-port-folio/Image/HOME/Vector.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/Vector.svg);
         position: absolute;
         width: 60px;
         height: 60px;
@@ -416,7 +416,7 @@ html {
 
       }
       .notice-sign:hover {
-          background-image: url(this-is-my-port-folio/Image/HOME/Vector_hover.svg);
+          background-image: url(/this-is-my-port-folio/Image/HOME/Vector_hover.svg);
       }
 
       .tagone {
