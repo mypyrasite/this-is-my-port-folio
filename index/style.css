@@ -39,7 +39,7 @@ html {
     bottom: 83.06%;
     }
     .nav-brand-jnerlogo:hover {
-        background-image: url(this-is-my-port-folio/Image/JNERLOGO.svg);
+        background-image: url(file:///this-is-my-port-folio/Image/JNERLOGO.svg);
     }
     .nav-brand-contentlogo {
         background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
