@@ -21,7 +21,7 @@ html {
     color: #c5c5c5;
   }
   .main-container {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/GRID.svg);
+    background-image: url(/this-is-my-port-folio/Image/HOME/GRID.svg);
     position: absolute;
     width: 1126.08px;
     height: 482.74px;
@@ -29,7 +29,7 @@ html {
     top: 79.63px;
 }
   .nav-brand-jnerlogo {
-    background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/JNERLOGO.svg);
+    background-image: url(/this-is-my-port-folio/Image/HOME/JNERLOGO.svg);
     width: 60px;
     height: 60px;
     position: absolute;
@@ -37,10 +37,10 @@ html {
     top: -6%;
     }
     .nav-brand-jnerlogo:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/JNERLOGO.svg);
+        background-image: url(/this-is-my-port-folio/Image/JNERLOGO.svg);
     }
     .nav-brand-contentlogo {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
         width: 20px;
         height: 20px;
         position: absolute;
@@ -50,10 +50,10 @@ html {
         bottom: 88.96%;
     }
     .nav-brand-contentlogo:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON_BLUE.svg);
     }
     .nav-brand-navbar {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR.svg);
         position: absolute;
         width: 20px;
         height: 20px;
@@ -63,12 +63,12 @@ html {
         bottom: 88.96%;
     }
     .nav-brand-navbar:hover {
-        background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/HOME/NAVBAR_BLUE.svg);
+        background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR_BLUE.svg);
     }
 
           
 .my-finder {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/finder.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/finder.svg);
 position: absolute;
 width: 1150px;
 height: 571.69px;
@@ -139,7 +139,7 @@ background-color: #00FF00;
 }
 
 .findersign {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/W&P.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/W&P.svg);
 position: absolute;
 width: 150px;
 height: 34px;
@@ -147,7 +147,7 @@ left: 85px;
 top: 75px;
 }
 .findersign:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/W&P_HOVER.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/W&P_HOVER.svg);
 }
 
 .seq-list {
@@ -157,7 +157,7 @@ padding: 0px;
 
 }
 .seqvii {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqvii.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqvii.svg);
 position: absolute;
 width: 187px;
 height: 30px;
@@ -165,14 +165,14 @@ left: 66px;
 top: 150px;
 }
 .seqvii:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A7.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A7.svg);
 width: 189px;
 height: 30px;
 margin: -1px;
 }
     
 .seqvi {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/A6.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow/WORKS/A6.svg);
 position: absolute;
 width: 189px;
 height: 30px;
@@ -180,12 +180,12 @@ top: 179px;
 left: 65px;
 }
 .seqvi:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/A6_HOVER.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow/WORKS/A6_HOVER.svg);
 width: 189px;
 height: 30px;  
 }
 .seqv {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqv.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqv.svg);
 position: absolute;
 width: 187px;
 height: 30px;
@@ -193,14 +193,14 @@ top: 208px;
 left: 66px;
 }
 .seqv:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A5.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A5.svg);
 width: 189px;
 height: 30px;
 margin: -1px;
 }
     
 .seqiv {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqiv.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqiv.svg);
 position: absolute;
 width: 187px;
 height: 30px;
@@ -208,14 +208,14 @@ top: 237px;
 left: 66px;
 }
 .seqiv:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A4.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A4.svg);
 width: 189px;
 height: 30px;
 margin: -1px;
 }
     
 .seqiii {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqiii.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqiii.svg);
 position: absolute;
 width: 187px;
 height: 30px;
@@ -223,13 +223,13 @@ top: 266px;
 left: 66px;
 }
 .seqiii:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A3.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A3.svg);
 width: 189px;
 height: 30px;
 margin: -1px;
 }
 .seqii {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqii.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqii.svg);
 position: absolute;
 width: 187px;
 height: 30px;
@@ -237,13 +237,13 @@ top: 295px;
 left: 66px;
 }
 .seqii:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A2.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A2.svg);
 width: 189px;
 height: 30px;
 margin: -1px;
 }
 .seqi {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqi.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/WORKS/WORKS/WORKS/seqi.svg);
 position: absolute;
 width: 187px;
 height: 30px;
@@ -251,7 +251,7 @@ top: 324px;
 left: 66px;
 }
 .seqi:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A1.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow/WORKS/WORKS/A1.svg);
 width: 189px;
 height: 30px;
 margin: -1px;
@@ -278,7 +278,7 @@ height: auto;
 
 
 .frame-bg {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/frame-transparent.png);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/frame-transparent.png);
 position: fixed;
 pointer-events: none;
 top: 162px;
@@ -421,7 +421,7 @@ color: black;
 }
 
 .arrow-fw {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow-2.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow-2.svg);
 position: absolute;
 pointer-events: visible;
 top: 45px;
@@ -430,11 +430,11 @@ width: 25px;
 height: 16px;
 }
 .arrow-fw:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow-2_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow-2_hover.svg);
 }
 
 .arrow-bw {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow-3.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow-3.svg);
 position: absolute;
 pointer-events: visible;
 bottom: 40px;
@@ -443,7 +443,7 @@ width: 25px;
 height: 16px;
 }
 .arrow-bw:hover {
-background-image: url(file:///Users/JNERS/Desktop/my-pyrasite-folio/Image/WORKS-PROJECTS/Arrow-3_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow-3_hover.svg);
 }
 
 
