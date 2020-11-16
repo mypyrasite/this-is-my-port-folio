@@ -1,12 +1,13 @@
 html {
     box-sizing: border-box;
   }
-  
+
   * {
     box-sizing: inherit;
     background-size: cover;
   }
-  
+
+
   body {
     margin: 0;
     color: white;
@@ -20,6 +21,9 @@ html {
   .input::placeholder {
     color: #c5c5c5;
   }
+
+@media screen and (min-width: 375px) {
+
   .main-container {
     background-image: url(/this-is-my-port-folio/Image/HOME/GRID.svg);
     position: absolute;
@@ -28,6 +32,7 @@ html {
     left: 156.46px;
     top: 79.63px;
 }
+
   .nav-brand-jnerlogo {
     background-image: url(/this-is-my-port-folio/Image/HOME/JNERLOGO.svg);
     width: 80px;
@@ -526,6 +531,7 @@ html {
       border: 1px solid #000000;
       background: #000000;
       }
+
       .btntwo:hover {
         background-color: #00FF00;
         border: 1px solid #00FF00;
@@ -533,5 +539,5 @@ html {
         letter-spacing: 1px;
         text-align: center;
         text-decoration:none;
-
       }
+}
