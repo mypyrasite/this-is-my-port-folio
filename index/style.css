@@ -38,8 +38,7 @@ html {
     width: 80px;
     height: 80px;
     position: absolute;
-    left: 0%;
-    top: -9%;
+    margin-top: -43px;
     }
 
     .nav-brand-jnerlogo:hover {
@@ -49,9 +48,8 @@ html {
         background-image: url(/this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
         width: 20px;
         height: 20px;
-        position: absolute;
-        left: 41.1%;
-        top: -3.9%;
+        margin-left: 479px;
+        margin-top: -20px;
     }
 
     .nav-brand-contentlogo:hover {
@@ -59,11 +57,10 @@ html {
     }
     .nav-brand-navbar {
         background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR.svg);
-        position: absolute;
         width: 20px;
         height: 20px;
-        left: 98.2%;
-        top: -3.9%;
+        margin-left: 1144px;
+        margin-top: -20px;
     }
     .nav-brand-navbar:hover {
         background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR_BLUE.svg);
@@ -75,8 +72,8 @@ html {
         position: absolute;
         width: 1165.45px;
         height: 498.45px;
-        left: 10%;
-        top: 15%;
+        margin-left: 144px;
+        margin-top: 109px;
     }
     .candy-one {
         position: absolute;
@@ -272,7 +269,7 @@ html {
           width: 52.17px;
           height: 104.33px;
           left: 76%;
-          top: 23%;
+          top: 27%;
       }
       .icon-eyeone:hover {
           background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_II-blue.svg);
@@ -284,7 +281,7 @@ html {
           width: 52.17px;
           height: 105.33px;
           left: 76%;
-          top: 42%;
+          top: 46%;
       }
       .icon-eyetwo:hover {
         background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_I-black.svg);
@@ -296,7 +293,7 @@ html {
           width: 52.17px;
           height: 27px;
           left: 15%;
-          top: 65%; 
+          top: 69%; 
       }
       .icon-eyethree:hover {
           background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_III-green.svg);
@@ -329,7 +326,7 @@ html {
         width: 280px;
         height: 60px;
         left: 69%;
-        top: 62%;
+        top: 66%;
       }
       .cat-cv:hover {
         background-image: url(/this-is-my-port-folio/Image/HOME/CV/resume_hoverII.svg); 
@@ -344,8 +341,8 @@ html {
         
         width: 369px;
         height: 227px;
-        left: 36%;
-        top: 30%;
+        margin-top: 235px;
+        margin-left: 520px;
       }
      
         
