@@ -73,10 +73,10 @@ html {
 
     .candy-gimmick {
         position: absolute;
-        width: 1127.45px;
-        height: 481.45px;
-        left: 10.8%;
-        top: 11%;
+        width: 1165.45px;
+        height: 498.45px;
+        left: 10%;
+        top: 15%;
     }
     .candy-one {
         position: absolute;
@@ -312,8 +312,8 @@ html {
           position: absolute;
           width: 170px;
           height: 40px;
-          left: 11%;
-          top: 50%;
+          left: 10%;
+          top: 55%;
       }
       .cat-work:hover {
         background-image: url(/this-is-my-port-folio/Image/HOME/work/project_hover.svg);
