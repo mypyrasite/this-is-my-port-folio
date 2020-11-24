@@ -28,11 +28,11 @@ html {
 
   .main-container {
     background-image: url(/this-is-my-port-folio/Image/HOME/GRID.svg);
-    width: 80%;
-    height: 532px;
-    margin-top: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 87%;
+    height: 536px;
+    margin-top: 6%;
+    margin-left: 6%;
+    margin-right: 6%;
   }
     
 }
@@ -52,8 +52,8 @@ html {
     .nav-brand-contentlogo {
     background-image: url(/this-is-my-port-folio/Image/HOME/CONTENTS-MENU_ICON.svg);
     position: relative;
-    top: -18.6%;
-    left: 44.5%;
+    top: -99px;
+    left: 516px;
     width: 20px;
     height: 20px;
     }
@@ -65,8 +65,8 @@ html {
     .nav-brand-navbar {
         background-image: url(/this-is-my-port-folio/Image/HOME/NAVBAR.svg);
         position: relative;
-        top: -22.4%;
-        left: 98.2%;
+        top: -119px;
+        left: 1232px;
         width: 20px;
         height: 20px;
 
@@ -77,10 +77,10 @@ html {
 
     .candy-gimmick {
         position: absolute;
-        top: 20%;
-        left: 10%;
-        width: 80%;
-        height: 73.4%;
+        top: 12%;
+        left: 6%;
+        width: 87%;
+        height: 74%;
     }
     .candy-one {
         position: absolute;
@@ -145,7 +145,7 @@ html {
         position: absolute;
         width: 13px;
         height: 13px;
-        left: 20.9%;
+        left: 21%;
         top: 97.3%;
         background: blue;
       }
@@ -156,7 +156,7 @@ html {
         position: absolute;
         width: 13px;
         height: 13px;
-        left: 45.1%;
+        left: 41.8%;
         top: 97.3%;
         background: blue;
         border-radius: 100%;
@@ -168,7 +168,7 @@ html {
         position: absolute;
         width: 13px;
         height: 13px;
-        left: 61.7%;
+        left: 57.2%;
         top: 0%;
         background: blue;
       }
@@ -226,7 +226,7 @@ html {
         width: 13px;
         height: 13px;
         position: absolute;
-        left: 61.8%;
+        left: 57.1%;
         top: 97.4%;
         background: blue;
         border-radius: 100%;
@@ -275,8 +275,8 @@ html {
           position: relative;
           width: 52.17px;
           height: 104.33px;
-          left: 82.6%;
-          top: 0px;
+          left: 83.6%;
+          top: -28px;
       }
       .icon-eyeone:hover {
           background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_II-blue.svg);
@@ -287,8 +287,8 @@ html {
           position: relative;
           width: 52.17px;
           height: 105px;
-          left: 82.6%;
-          top: 37px;
+          left: 83.6%;
+          top: 23px;
       }
       .icon-eyetwo:hover {
         background-image: url(/this-is-my-port-folio/Image/eyeicon/HOME/EYE_ICON_I-black.svg);
@@ -313,7 +313,7 @@ html {
           width: 170px;
           height: 40px;
           left: 36px;
-          top: -45px;
+          top: -43px;
 
       }
       .cat-work:hover {
@@ -327,7 +327,7 @@ html {
         width: 280px;
         height: 60px;
         left: 70%;
-        top: 0px;
+        top: 2px;
 
       }
       .cat-cv:hover {
@@ -342,7 +342,7 @@ html {
         position: relative;
         background-repeat: no-repeat;
         background-size: contain;
-        top: -65%;
+        top: -60%;
         left: 30%;
         width: 35%;
         height: 248px;
