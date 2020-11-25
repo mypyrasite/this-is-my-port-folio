@@ -518,3 +518,12 @@ opacity: 0;
 opacity: 0.7;
 vertical-align: middle; 
 }
+
+@media screen and (min-width: 1920px) {
+  body {
+    position: absolute;
+    top: 130px;
+    left: 13%;
+  }
+ 
+}

@@ -289,6 +289,17 @@ top: 282px;
 .cat-cv:hover {
 background-image: url(/this-is-my-port-folio/Image/CV-RESUME_hover.svg); 
 }
+
+
+
+@media screen and (min-width: 1920px) {
+  body {
+    position: absolute;
+    top: 130px;
+    left: 13%;
+  }
+ 
+}
       
 
       

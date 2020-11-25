@@ -448,6 +448,15 @@ height: 16px;
 background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow-3_hover.svg);
 }
 
+@media screen and (min-width: 1920px) {
+  body {
+    position: absolute;
+    top: 130px;
+    left: 13%;
+  }
+ 
+}
+
 
 
 

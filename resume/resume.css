@@ -1422,6 +1422,15 @@ top: 475px;
 background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/CV/mouse_hover.svg);
 }
 
+@media screen and (min-width: 1920px) {
+  body {
+    position: absolute;
+    top: 130px;
+    left: 13%;
+  }
+ 
+}
+
 
 
 
