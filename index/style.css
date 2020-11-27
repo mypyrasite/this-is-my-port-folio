@@ -341,9 +341,9 @@ img {
       background-image: url(/this-is-my-port-folio/Image/HOME/finder_black.svg);
       position: absolute;
       
-      width: 369px;
-      height: 227px;
-      left: 516px;
+      width: 396px;
+      height: 243px;
+      left: 505px;
       top: 215px;
     }
    
@@ -393,7 +393,7 @@ img {
     
     .mynotice-header {
       position: absolute;
-      left: 230px;
+      left: 245px;
       top: 3px;
 
       font-family: barlow;

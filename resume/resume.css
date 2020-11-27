@@ -1343,11 +1343,12 @@ border-radius: 100%;
 background-color: #00FF00;
 }
 .dotd {
-background-color: blue;
+border: 0.5px solid #000000;
 border-radius: 100%;
 }
 .dotd:hover {
 background-color: #00FF00;
+border: none;
 }
 .timeline-2007 {
 position: absolute;
@@ -1367,12 +1368,7 @@ left: -56px;
 top: 269px;
 transform: rotate(90deg);
 }
-.present {
-position: absolute;
-left: -59px;
-top: 449px;
-transform: rotate(90deg);
-}
+
 
 .object-eye {
 background-image: url(/this-is-my-port-folio/Image/Other-Object/CV/eyee.svg);
