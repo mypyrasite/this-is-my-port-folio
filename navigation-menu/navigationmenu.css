@@ -78,7 +78,7 @@ html {
         left: 28.2%;
         top: 0%;
 
-        background: #00FF00;
+        background: white;
     }
     .candy-one:hover {
         background: blue;
@@ -89,7 +89,7 @@ html {
         top: 31.5%;
         width: 13px;
         height: 13px;
-        background: #00FF00;
+        background: white;
         border-radius: 100%;
     }
     .candy-two:hover {
@@ -113,7 +113,7 @@ html {
         height: 13px;
         left: 0.1%;
         top: 48.6%;
-        background: #00FF00;
+        background: white;
       }
       .candy-four:hover {
           background: blue;
@@ -122,9 +122,9 @@ html {
         position: absolute;
         width: 13px;
         height: 13px;
-        left: 0.2%;
-        top: 97%;
-        background: #00FF00;
+        left: 2px;
+        top: 467px;
+        background: white;
         border-radius: 100%;
       }
       .candy-five:hover {
@@ -136,7 +136,7 @@ html {
         height: 13px;
         left: 20.9%;
         top: 97.3%;
-        background: #00FF00;
+        background: white;
       }
       .candy-six:hover {
           background: blue;
@@ -145,9 +145,9 @@ html {
         position: absolute;
         width: 13px;
         height: 13px;
-        left: 41.7%;
-        top: 97%;
-        background: #00FF00;
+        left: 469px;
+        top: 466px;
+        background: white;
         border-radius: 100%;
       }
       .candy-seven:hover {
@@ -157,19 +157,20 @@ html {
         position: absolute;
         width: 13px;
         height: 13px;
-        left: 57.2%;
-        top: 0.3%;
-        background: #00FF00;
+        left: 646px;
+        top: 2px;
+        background: white;
       }
       .candy-eight:hover {
           background: blue;
       }
       .candy-nine {
+        position: absolute;
         width: 13px;
         height: 13px;
-        left: 49.44%;
-        top: 14.2%;
-        background: #00FF00;
+        left: 2px;
+        top: 2px;
+        background: white;
         border-radius: 100%;
       }
       .candy-nine:hover {
@@ -181,7 +182,7 @@ html {
         position: absolute;
         left: 70.6%;
         top: 31.5%;
-        background: #00FF00;
+        background: white;
         border-radius: 100%;
       }
       .candy-ten:hover {
@@ -205,7 +206,7 @@ html {
         position: absolute;
         left: 49.44%;
         top: 49.17%;
-        background: #00FF00;
+        background: white;
       }
       .candy-twelve:hover {
           background: blue;
@@ -214,9 +215,9 @@ html {
         width: 13px;
         height: 13px;
         position: absolute;
-        left: 57.2%;
-        top: 97%;
-        background: #00FF00;
+        left: 646px;
+        top: 467px;
+        background: white;
         border-radius: 100%;
       }
       .candy-thirteen:hover {
@@ -226,9 +227,9 @@ html {
         width: 13px;
         height: 13px;
         position: absolute;
-        left: 78%;
-        top: 97.3%;
-        background: #00FF00;
+        left: 879px;
+        top: 468px;
+        background: white;
       }
       .candy-fourteen:hover {
           background: blue;
@@ -237,9 +238,9 @@ html {
         width: 13px;
         height: 13px;
         position: absolute;
-        left: 98.8%;
-        top: 97.3%;
-        background: #00FF00;
+        left: 1113px;
+        top: 467px;
+        background: white;
         border-radius: 100%;
       }
       .candy-fifteen:hover {
@@ -251,7 +252,7 @@ html {
         position: absolute;
         left: 98.7%;
         top: 48.7%;
-        background: #00FF00;
+        background: white;
       }
       .candy-sixteen:hover {
           background: blue;
@@ -260,7 +261,7 @@ html {
 
 
 .cat-work {
-background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS_hover.svg);
 display: flex;
 flex-direction: column;
 padding: 0px;
@@ -271,11 +272,11 @@ left: 313px;
 top: 290px;
 }
 .cat-work:hover {
-background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS_hover.svg);
+background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS.svg);
 }
 
 .cat-cv {
-background-image: url(/this-is-my-port-folio/Image/CV-RESUME.svg);
+background-image: url(/this-is-my-port-folio/Image/CV-RESUME_hover.svg);
 display: flex;
 flex-direction: column;
 padding: 0px;
@@ -287,7 +288,7 @@ left: 970px;
 top: 282px;
 }
 .cat-cv:hover {
-background-image: url(/this-is-my-port-folio/Image/CV-RESUME_hover.svg); 
+background-image: url(/this-is-my-port-folio/Image/CV-RESUME.svg); 
 }
 
 
