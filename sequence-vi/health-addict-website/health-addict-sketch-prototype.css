@@ -279,9 +279,9 @@ height: auto;
 
 .frame-bg {
 background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/frame-transparent.png);
-position: fixed;
+position: sticky;
 pointer-events: none;
-top: 164px;
+top: 0px;
 left: 401px;
 width: 798px;
 height: 504px;
