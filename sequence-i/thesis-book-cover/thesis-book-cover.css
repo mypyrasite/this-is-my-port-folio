@@ -21,13 +21,6 @@ html {
     color: #c5c5c5;
   }
 
-  @font-face {
-    font-family: 'mont_demoheavy';
-    src: url('../font/montdemo-heavy-webfont.woff') format('woff2'),
-         url('../font/montdemo-heavy-webfont.woff2') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
 
   .main-container {
     background-image: url(/this-is-my-port-folio/Image/HOME/GRID.svg);
@@ -305,9 +298,9 @@ z-index: 1;
 position: absolute;
 top: 100px;
 padding-left: 50px;
-font-family: Mont Demo;
+font-family: barlow;
 font-style: normal;
-font-weight: 800;
+font-weight: 900;
 font-size: 18px;
 line-height: 22px;
 letter-spacing: 0.25em;
@@ -341,9 +334,9 @@ height: 45px;
 pointer-events: visible;
 padding-left: 50px;
 
-font-family: Mont Demo;
+font-family: barlow;
 font-style: normal;
-font-weight: 800;
+font-weight: 900;
 font-size: 18px;
 line-height: 23px;
 letter-spacing: 0.1em;

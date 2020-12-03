@@ -292,53 +292,56 @@ z-index: 1;
 
 
 .header {
-padding-left: 50px;
-padding-top: 100px;
-font-family: Mont Demo;
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 22px;
-letter-spacing: 0.25em;
-text-decoration-line: underline;
-text-transform: uppercase;
-    
-color: #00FF00;
-}
-
-.sub-head{
-padding-left: 50px;
-font-family: Roboto;
-font-style: normal;
-font-weight: 300;
-font-size: 12px;
-line-height: 19px;
-letter-spacing: 0.1em;
-text-decoration-line: underline;
-text-transform: lowercase;
-    
-color: #00FF00;
-}
-
-.content {
-position: absolute;
-bottom: 50px;
-width: 210px;
-height: 45px;
-pointer-events: visible;
-padding-left: 50px;
-
-font-family: Mont Demo;
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 23px;
-letter-spacing: 0.1em;
-text-decoration-line: underline;
-text-transform: lowercase;
-    
-color: #00FF00;
-}
+  position: absolute;
+  top: 100px;
+  padding-left: 50px;
+  font-family: barlow;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.25em;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+      
+  color: #00FF00;
+  }
+  
+  .sub-head{
+  position: absolute;
+  top: 200px;
+  padding-left: 50px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 19px;
+  letter-spacing: 0.1em;
+  text-decoration-line: underline;
+  text-transform: lowercase;
+      
+  color: #00FF00;
+  }
+  
+  .content {
+  position: absolute;
+  bottom: 50px;
+  width: 265px;
+  height: 45px;
+  pointer-events: visible;
+  padding-left: 50px;
+  
+  font-family: barlow;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.1em;
+  text-decoration-line: underline;
+  text-transform: lowercase;
+      
+  color: #00FF00;
+  }
 
 .arrow-fw {
 background-image: url(/this-is-my-port-folio/Image/WORKS-PROJECTS/Arrow-2.svg);

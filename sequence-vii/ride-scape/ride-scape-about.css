@@ -319,11 +319,12 @@ box-sizing: border-box;
 
 
 .header {
+position: absolute;
+top: 100px;
 padding-left: 50px;
-padding-top: 100px;
-font-family: Mont Demo;
+font-family: barlow;
 font-style: normal;
-font-weight: 800;
+font-weight: 900;
 font-size: 18px;
 line-height: 22px;
 letter-spacing: 0.25em;
@@ -334,6 +335,8 @@ color: #00FF00;
 }
 
 .sub-head{
+position: absolute;
+top: 299px;
 padding-left: 50px;
 font-family: Roboto;
 font-style: normal;
@@ -355,9 +358,9 @@ height: 45px;
 pointer-events: visible;
 padding-left: 50px;
 
-font-family: Mont Demo;
+font-family: barlow;
 font-style: normal;
-font-weight: 800;
+font-weight: 900;
 font-size: 18px;
 line-height: 23px;
 letter-spacing: 0.1em;
