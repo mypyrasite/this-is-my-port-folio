@@ -23,8 +23,9 @@ html {
 
   @font-face {
   font-family: 'mont Demo';
-  src: url('/font/montdemo-heavy-webfont.woff') format('woff') url('/font/montdemo-heavy-webfont.woff2') format('woff2')
-  
+  src: url('../font/montdemo-heavy-webfont.woff') format('woff') url('../font/montdemo-heavy-webfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
   }
 
   .main-container {
