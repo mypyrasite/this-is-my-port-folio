@@ -20,6 +20,13 @@ html {
   .input::placeholder {
     color: #c5c5c5;
   }
+
+  @font-face {
+  font-family: 'mont Demo';
+  src: url('/font/montdemo-heavy-webfont.woff') format('woff') url('/font/montdemo-heavy-webfont.woff2') format('woff2')
+  
+  }
+
   .main-container {
     background-image: url(/this-is-my-port-folio/Image/HOME/GRID.svg);
     position: absolute;
